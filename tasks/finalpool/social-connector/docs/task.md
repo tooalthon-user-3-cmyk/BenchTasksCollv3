@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgc29jaWFsIG1lZGlhIGNvbm5lY3RvciB0b29sIGZvciBoYW5kbGluZyBzb2NpYWwgbWVkaWEgYWNjb3VudHMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIG11bHRpcGxlIGFjY291bnRzCi0gQXBwcnJvdmUgY2hhbmdlcyB0byBhY2NvdW50cwpUaGUgdG9vbCBuZWVkcyB0byBiZSBidWlsdCB3aXRoIGEgY2xlYXIgY29udGV4dCBtYW5hZ2VtZW50IHN5c3RlbSB0byBoYW5kbGUgbXVsdGlwbGUgaW50ZXJhY3Rpb25zIHdpdGggdGhlIHNhbWUgYWNjb3VudC4uLi4K
+# social-connector
+
+## Task
+Implement the social-connector task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

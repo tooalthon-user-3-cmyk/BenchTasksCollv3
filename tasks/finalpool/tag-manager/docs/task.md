@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgdGFnIHN5c3RlbSB0b29sIGZvciB1c2VycyB0byBtYW5hZ2UgYW5kIG9yZ2FuaXplIHRoZWlyIGNvbnRlbnQgdGFncy4KCkNvcGVyYXRpb246Ci0gTmVlZCB0byBtYW5hZ2UgbGFyZ2UgbnVtYmVycyBvZiB0YWdzCi0gQnVpbGQgYSBoaWVyYXJjaHkgb2YgdGFnIGNhdGVnb3JpZXMKLSBJbnRlZ3JhdGUgd2l0aCBhIGNvbnRlbnQgbWFuYWdlbWVudCBzeXN0ZW0KCg==
+# tag-manager
+
+## Task
+Implement the tag-manager task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

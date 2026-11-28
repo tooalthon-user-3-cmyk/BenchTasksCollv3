@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyBtYW5hZ2UgdGhlaXIgY3VzdG9tZXIgYWNjb3VudHMuCg==
+# User System Prompt
+
+You are a helpful assistant for the customer-portal task.

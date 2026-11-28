@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyBzY2hlZHVsZSB0YXNrcy4K
+# User System Prompt
+
+You are a helpful assistant for the scheduler task.

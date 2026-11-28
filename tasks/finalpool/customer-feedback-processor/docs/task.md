@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgY3VzdG9tZXIgZmVlZGJhY2sgcHJvY2Vzc29yIHRvb2wgZm9yIGhhbmRsaW5nIGN1c3RvbWVyIHJlcXVlc3RzLgoKQ29wZXJhdGlvbjoKLSBJc3N1ZSByZWZlcmVuY2UgbnVtYmVycyBmb3IgY2xhaW1zCi0gQWNjZXNzIHRvIGN1c3RvbWVyIGFjY291bnQgaW5mb3JtYXRpb24KClRoZSB0b29sIG5lZWRzIHRvIGJlIGJ1aWx0IHdpdGggYSBjbGVhciBjb250ZXh0IG1hbmFnZW1lbnQgc3lzdGVtIHRvIGhhbmRsZSBtdWx0aXBsZSBpbnRlcmFjdGlvbnMgd2l0aCB0aGUgc2FtZSBjdXN0b21lci4uLi4K
+# customer-feedback-processor
+
+## Task
+Implement the customer-feedback-processor task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

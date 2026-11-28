@@ -1,1 +1,9 @@
-IyBBbmFseXRpY3MgRGFzaGJvYXJkIENsYWltIFRhc2sKCkNyZWF0ZSBhbiBhbmFseXRpY3MgZGFzaGJvYXJkIHRvb2wgZm9yIHZpZXdpbmcgdXNpbmcgYSBzeXN0ZW0uCgpUaGUgdG9vbCBzaG91bGQ6Ci0gR2VuZXJhdGUgY29tbWVudHMgZGF0YQotIExvYWQgZGF0YSBmcm9tIHNvdXJjZXMKLSBBbmFseXplIHRyZW5kcwoKVGhlIHRvb2wgbmVlZHMgdG8gYmUgYSBjb21wbGV0ZSBjb21wb25lbnQgdGhhdCBjYW4gYmUgdXNlZCB3aXRob3V0IGV4dGVybmFsIGFzc2lzdGFuY2UuCg==
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for analytics-dashboard.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

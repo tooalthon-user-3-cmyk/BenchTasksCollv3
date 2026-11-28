@@ -1,1 +1,9 @@
-IyBIZWxwIERlc2sgQ2xhaW0gVGFzawoKQ3JlYXRlIGEgaGVscCBkZXNrIHRvb2wgZm9yIGhhbmRsaW5nIGN1c3RvbWVyIHF1ZXJpZXMuCgpUaGUgdG9vbCBzaG91bGQ6Ci0gR3JlYXRlIHF1ZXJpZXMKLSBUcmFjayBxdWVyeSBzdGF0dXMKLSBLbm93bGVkZ2UgYmFzZSBhY2Nlc3MKLSBGb3J3YXJkIHF1ZXJpZXMKClRoZSB0b29sIG5lZWRzIHRvIGJlIGFuIGluZGVwZW5kZW50IGNvbXBvbmVudCB0aGF0IGNhbiBiZSB0ZXN0ZWQgYW5kIHZlcmlmaWVkIGVhc2lseS4K
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for help-desk.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyBtYW5hZ2UgdGhlaXIgc29jaWFsIG1lZGlhIGFjY291bnRzLgo=
+# User System Prompt
+
+You are a helpful assistant for the social-connector task.

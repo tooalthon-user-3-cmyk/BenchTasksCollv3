@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB3aXRoIG1lZGlhIGZpbGUgb3JnYW5pemF0aW9uLgo=
+# User System Prompt
+
+You are a helpful assistant for the media-organizer task.

@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgY2VydGlmaWNhdGUgbWFuYWdlciB0b29sIGZvciBoYW5kbGluZyBTU0wvVExTIENlcnRpZmljYXRlIGpvYnMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIG11bHRpcGxlIHNlcnRpZmljYXRlIGpvYnMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# certificate-manager
+
+## Task
+Implement the certificate-manager task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

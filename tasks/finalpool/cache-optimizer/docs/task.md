@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgY2FjaGUgb3B0aW1pemVyIHRvb2wgZm9yIG1hbmFnaW5nIGRhdGEgY2FjaGluZy4KCkNvcGVyYXRpb246Ci0gTmVlZCB0byBoYW5kbGUgbXVsdGlwbGUgY2FjaGUgaXRlbXMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# cache-optimizer
+
+## Task
+Implement the cache-optimizer task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

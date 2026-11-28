@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgd2ViIGNyYXdsZXIgdG9vbCBmb3IgZXh0cmFjdGluZyBkYXRhIGZyb20gd2Vic2l0ZXMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIGxhcmd1bWVudHMgZnJvbSBjdXN0b21lcnMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# web-crawler
+
+## Task
+Implement the web-crawler task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

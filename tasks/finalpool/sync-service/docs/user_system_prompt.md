@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyBzeW5jIGRhdGEgYmV0d2VlbiBzeXN0ZW1zLgo=
+# User System Prompt
+
+You are a helpful assistant for the sync-service task.

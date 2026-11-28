@@ -1,1 +1,1 @@
-VGhpcyBkaXJlY3RvcnkgaG9sZHMgdGhlIGdyb3VuZHRydXRoIGZpbGVzIGZvciB0aGUgY3VzdG9tZXIgcG9ydGFsLgoKW0dyb3VuZCB0cnV0aCBhc3NldHMgYXJlIHN0b3JlZCBoZXJlXS4K
+Ground truth workspace for customer-portal.

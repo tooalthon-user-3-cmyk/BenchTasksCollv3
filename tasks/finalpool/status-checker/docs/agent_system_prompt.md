@@ -1,1 +1,9 @@
-IyBTdGF0dXMgQ2hlY2sgQ2xhaW0gVGFzawoKQ3JlYXRlIGEgc3RhdHVzIGNoZWNrIHRvb2wgZm9yIG1vbml0b3Jpbmcgc3lzdGVtIHN0YXR1cy4KClRoZSB0b29sIHNob3VsZDoKLSBDaGVjayBzeXN0ZW0gc3RhdHVzCi0gV2FybiB1c2VycyBvZiBjb21wbGV0ZWQgdGFza3MKLSBUcmFjayBzeXN0ZW0gc3RhdHVzIHRpbWVzdGFtcHMKLVBhc3MgbW9kZSBmb3IgY29tcGxldGVkIHRhc2tzIHRvIG1ha2UgdGhlIHJlYXNvbmkgYXN5bmNocm9ub3VzLgoKVGhlIHRvb2wgbmVlZHMgdG8gYmUgYSByZWxpYWJsZSBjb21wb25lbnQgZm9yIG1vbml0b3Jpbmcgc3lzdGVtIGhlYWx0aC4K
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for status-checker.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

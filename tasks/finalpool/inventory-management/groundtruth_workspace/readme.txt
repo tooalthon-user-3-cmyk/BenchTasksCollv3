@@ -1,1 +1,1 @@
-VGhpcyBkaXJlY3RvcnkgaG9sZHMgdGhlIGdyb3VuZHRydXRoIGZpbGVzIGZvciB0aGUgbG95YWx0eSBwcm9ncmFtIGNsYWltIHRvb2wuCgpbR3JvdW5kIHRydXRoIGFzc2V0cyBhcmUgc3RvcmVkIGhlcmVdCg==
+Ground truth workspace for inventory-management.

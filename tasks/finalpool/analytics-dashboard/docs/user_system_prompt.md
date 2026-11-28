@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyB2aWV3IGRhdGEgdmlzdWFscy4K
+# User System Prompt
+
+You are a helpful assistant for the analytics-dashboard task.

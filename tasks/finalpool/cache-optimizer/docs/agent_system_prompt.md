@@ -1,1 +1,9 @@
-IyBDYWNoZSBPcHRpbWl6ZXIgQ2xhaW0gVGFzawoKQ3JlYXRlIGEgY2FjaGUgb3B0aW1pemVyIHRvb2wgZm9yIG1hbmFnaW5nIGRhdGEgY2FjaGluZy4KClRoZSB0b29sIHNob3VsZDoKLSBBdXRvLW1hbmFnZSBjYWNoZSBpdGVtcwotIE92ZXJyaWRlIGNhY2hlIGxpbWl0cwoKVGhlIHRvb2wgbmVlZHMgdG8gYmUgYW4gaW5kZXBlbmRlbnQgY29tcG9uZW50IHRoYXQgY2FuIGJlIHRlc3RlZCBhbmQgdmVyaWZpZWQgZWFzaWx5Lgo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for cache-optimizer.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

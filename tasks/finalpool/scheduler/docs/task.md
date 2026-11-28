@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgc2NoZWR1bGVyIHRvb2wgZm9yIHBsYW5uaW5nIHRhc2tzIGFuZCBqYnMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIG11bHRpcGxlIHNjaGVkdWxlZCB0YXNrcwogLSBPdmVybGF5IGFuc3dlcnMgaW5zdGVhZCBvZiBvcGVuaW5nIGZpbGVzIHRvIG1ha2UgdGhlIHJlYXNvbmkgYXN5bmNocm9ub3VzCg==
+# scheduler
+
+## Task
+Implement the scheduler task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

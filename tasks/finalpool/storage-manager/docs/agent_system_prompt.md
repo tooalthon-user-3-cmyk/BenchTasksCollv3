@@ -1,1 +1,9 @@
-IyBTdG9yYWdlIE1hbmFnZXIgQ2xhaW0gVGFzawoKQ3JlYXRlIGEgc3RvcmFnZSBtYW5hZ2VyIHRvb2wgZm9yIG1hbmFnaW5nIGRhdGEgc3RvcmFnZS4KClRoZSB0b29sIHNob3VsZDoKLSBDcmVhdGUgc3RvcmFnZSBpdGVtcwoKLSBUcmFjayBpdGVtIHN0YXR1cwoKVGhlIHRvb2wgbmVlZHMgdG8gYmUgYW4gaW5kZXBlbmRlbnQgY29tcG9uZW50IHRoYXQgY2FuIGJlIHRlc3RlZCBhbmQgdmVyaWZpZWQgZWFzaWx5Lgo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for storage-manager.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

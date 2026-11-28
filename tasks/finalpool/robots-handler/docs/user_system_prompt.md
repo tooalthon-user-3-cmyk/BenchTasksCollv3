@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB3aXRoIHJvcG90cy50eHQgZmlsZXMuCg==
+# User System Prompt
+
+You are a helpful assistant for the robots-handler task.

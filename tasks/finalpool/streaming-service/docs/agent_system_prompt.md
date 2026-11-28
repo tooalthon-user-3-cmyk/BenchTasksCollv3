@@ -1,1 +1,9 @@
-IyBTdHJlYW1pbmcgU2VydmljZSBDbGFpbSBUYXNrCgpDcmVhdGUgYSBzdHJlYW1pbmcgc2VydmljZSB0b29sIGZvciBtYW5hZ2luZyB2aWRlbyBjb250ZW50LgoKVGhlIHRvb2wgc2hvdWxkOgotIEdsb2JhbGx5IG1hbmFnZSB2aWRlbyBjb250ZW50Ci0gU3RyZWFtIHZpZGVvIGNvbnRlbnQKLVNlYXJjaCB2aWRlbyBjb250ZW50Ci0gQ3JlYXRlIHBsYXlsaXN0cwoKVGhlIHRvb2wgbmVlZHMgdG8gYmUgYW4gaW5kZXBlbmRlbnQgY29tcG9uZW50IHRoYXQgY2FuIGJlIHRlc3RlZCBhbmQgdmVyaWZpZWQgZWFzaWx5Lgo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for streaming-service.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyB3aXRoIHN5c3RlbSBzdGF0dXMgY2hlY2tzLgo=
+# User System Prompt
+
+You are a helpful assistant for the status-checker task.

@@ -1,1 +1,1 @@
-VGhpcyBkaXJlY3RvcnkgaG9sZHMgdGhlIGdyb3VuZHRydXRoIGZpbGVzIGZvciB0aGUgaGVhbHRoIG1vbml0b3IuCgpbR3JvdW5kIHRydXRoIGFzc2V0cyBhcmUgc3RvcmVkIGhlcmVdCg==
+Ground truth workspace for health-monitor.

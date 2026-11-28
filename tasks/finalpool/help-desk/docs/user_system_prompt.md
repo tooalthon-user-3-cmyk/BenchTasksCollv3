@@ -1,1 +1,3 @@
-WW91IGFyZSBhIHVzZWZ1bCBhc3Npc3RhbnQgdGhhdCBoZWxwcyB1c2VycyB3aXRoIGN1c3RvbWVyIHF1ZXJpZXMuCg==
+# User System Prompt
+
+You are a helpful assistant for the help-desk task.

@@ -1,1 +1,2 @@
-ZGVmIG1haW4oKToKICAgIGNyZWF0ZV9zdGF0dXMoKQoKaWYgX19uYW1lX19fPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+def main():
+    pass

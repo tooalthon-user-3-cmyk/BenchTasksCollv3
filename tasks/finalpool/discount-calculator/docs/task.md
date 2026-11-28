@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgZGlzY291bnQgY2FsY3VsYXRvciB0b29sIGZvciBhZCB2aXNvcnMgdG8gaGVscCBjdXN0b21lcnMgY2FsY3VsYXRlIHRoZWlyIGRpc2NvdW50cyBvbiBwdXJjaGFzZXMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIGxvdHMgb2YgZGlzY291bnQgcmVxdWVzdHMgZnJvbSBjdXN0b21lcnMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# discount-calculator
+
+## Task
+Implement the discount-calculator task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

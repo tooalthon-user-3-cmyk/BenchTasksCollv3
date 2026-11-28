@@ -1,1 +1,1 @@
-VGhpcyBkaXJlY3RvcnkgaG9sZHMgdGhlIGdyb3VuZHRydXRoIGZpbGVzIGZvciB0aGUgcm9ib3RzIGhhbmRsZXIuCgpbR3JvdW5kIHRydXRoIGFzc2V0cyBhcmUgc3RvcmVkIGhlcmVdCg==
+Ground truth workspace for robots-handler.

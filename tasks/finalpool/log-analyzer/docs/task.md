@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgbG9nIGFuYWx5emVyIHRvb2wgZm9yIG1vbml0b3JpbmcgYXBwbGljYXRpb24gbG9ncy4KCkNvcGVyYXRpb246Ci0gTmVlZCB0byBoYW5kbGUgbXVsdGlwbGUgbG9nIHNvdXJjZXMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# log-analyzer
+
+## Task
+Implement the log-analyzer task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.

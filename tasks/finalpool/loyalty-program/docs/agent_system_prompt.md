@@ -1,1 +1,9 @@
-IyBMb3lhbHR5IFByb2dyYW0gQ2xhaW0gVGFzawoKQ3JlYXRlIGEgbG95YWx0eSBwcm9ncmFtIGNsYWltIHRvb2wgZm9yIGFkdmlzb3JzIHRvIGhlbHAgY3VzdG9tZXJzIGNsYWltIHBvaW50cy4KClRoZSB0b29sIHNob3VsZDoKLSBWaWV3IGF2YWlsYWJsZSBjb21tZXJjaWFsIG9mZmVycwotIENyZWF0ZSBhIGNsYWltIGZvciBjdXN0b21lcnMKLSBUcmFjayBjbGFpbSBzdGF0dXMKLSBSZWRlZW0gcG9pbnRzIGZvciBkaXNjb3VudHMKClRoZSB0b29sIG5lZWRzIHRvIHdvcmsgYXMgYSByZWxpYWJsZSBzb2Z0d2FyZSBjb21wb25lbnQgdGhhdCBjYW4gYmUgaW50ZWdyYXRlZCBpbnRvIGEgYnVzaW5lc3Mgc2lzdGVtLgo=
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for loyalty-program.
+
+## Task-Specific Requirements
+- Must use the available tools correctly.
+- Must pass all provided tests.
+- Must be a complete, runnable implementation.

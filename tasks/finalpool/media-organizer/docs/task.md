@@ -1,1 +1,8 @@
-Q3JlYXRlIGEgbWVkaWEgb3JnYW5pemVyIHRvb2wgZm9yIG1hbmFnaW5nIGZpbGVzIGFuZCBtZWRpYSBhc3NldHMuCgpDb3BlcmF0aW9uOgotIE5lZWQgdG8gaGFuZGxlIGxhcmd1bWVudHMgZnJvbSBjdXN0b21lcnMKLSBBcHBseSBjdXJyZW50IHByaWNpbmcgb2ZmZXJzIHdpdGhvdXQgaW50ZXJydXB0aW9uCg==
+# media-organizer
+
+## Task
+Implement the media-organizer task as described in the requirements.
+
+## Requirements
+- Complete the implementation.
+- Ensure all tests pass.
