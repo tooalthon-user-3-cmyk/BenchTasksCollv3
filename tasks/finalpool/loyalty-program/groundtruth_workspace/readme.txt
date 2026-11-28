@@ -1,1 +1,1 @@
-Ground truth workspace for loyalty-program.
+Groundtruth data for loyalty-program

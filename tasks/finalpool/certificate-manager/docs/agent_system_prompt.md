@@ -1,9 +1,4 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for certificate-manager.
-
-## Task-Specific Requirements
-- Must use the available tools correctly.
-- Must pass all provided tests.
-- Must be a complete, runnable implementation.
+Please complete the implementation for certificate-manager in a beautiful way!

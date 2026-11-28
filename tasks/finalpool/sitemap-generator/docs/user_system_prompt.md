@@ -1,3 +1,1 @@
-# User System Prompt
-
-You are a helpful assistant for the sitemap-generator task.
+This is an user system prompt for sitemap-generator

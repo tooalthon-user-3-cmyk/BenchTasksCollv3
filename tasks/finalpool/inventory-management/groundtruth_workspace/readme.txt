@@ -1,1 +1,1 @@
-Ground truth workspace for inventory-management.
+Groundtruth data for inventory-management

@@ -1,1 +1,1 @@
-Ground truth workspace for media-organizer.
+Groundtruth data for media-organizer

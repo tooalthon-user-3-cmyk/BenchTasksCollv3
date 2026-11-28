@@ -1,1 +1,1 @@
-Ground truth workspace for customer-feedback-processor.
+Groundtruth data for customer-feedback-processor

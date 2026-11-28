@@ -1,1 +1,1 @@
-Ground truth workspace for streaming-service.
+Groundtruth data for streaming-service

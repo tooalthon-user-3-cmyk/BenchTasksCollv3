@@ -1,3 +1,1 @@
-# User System Prompt
-
-You are a helpful assistant for the social-connector task.
+This is an user system prompt for social-connector

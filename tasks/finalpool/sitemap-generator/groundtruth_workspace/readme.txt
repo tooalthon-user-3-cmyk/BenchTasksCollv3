@@ -1,2 +1,1 @@
-def main():
-    pass
+Groundtruth data for sitemap-generator

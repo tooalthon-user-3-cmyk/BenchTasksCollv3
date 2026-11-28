@@ -1,3 +1,1 @@
-# User System Prompt
-
-You are a helpful assistant for the help-desk task.
+This is an user system prompt for help-desk
