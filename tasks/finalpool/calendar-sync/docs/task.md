@@ -1,4 +1,5 @@
 # Task: calendar-sync
 
 ## Description
-Complete the implementation for calendar-sync in a beautiful way!
+Complete the implementation for calendar-sync
+

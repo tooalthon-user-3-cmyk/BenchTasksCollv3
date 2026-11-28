@@ -1,4 +1,5 @@
 # Task: reminder-service
 
 ## Description
-Complete the implementation for reminder-service in a beautiful way!
+Complete the implementation for reminder-service
+

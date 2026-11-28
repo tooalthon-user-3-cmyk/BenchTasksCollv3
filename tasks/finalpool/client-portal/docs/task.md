@@ -1,4 +1,5 @@
 # Task: client-portal
 
 ## Description
-Complete the implementation for client-portal in a beautiful way!
+Complete the implementation for client-portal
+

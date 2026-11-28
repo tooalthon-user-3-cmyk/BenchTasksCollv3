@@ -1,2 +1,1 @@
-# Groundtruth workspace for calendar-sync
-This directory contains the expected final state after task completion.
+Groundtruth data for calendar-sync
