@@ -1,4 +1,5 @@
 # Task: payment-processor
 
 ## Description
-Complete the implementation for payment-processor in a beautiful way!
+Complete the implementation for payment-processor
+

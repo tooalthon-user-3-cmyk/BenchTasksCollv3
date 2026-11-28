@@ -1,2 +1,1 @@
-# Groundtruth workspace for price-tracker
-This directory contains the expected final state after task completion.
+Groundtruth data for price-tracker
