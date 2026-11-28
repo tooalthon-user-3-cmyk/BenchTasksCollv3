@@ -1,12 +1,12 @@
-import json
-import sys
-from typing import Dict, Any
+# Evaluation script for blog-engine
 
-def evaluate(workspace_path: str, groundtruth_path: str) -> Dict[str, Any]:
-    """Evaluate blog-engine implementation"""
-    return {"score": 1.0, "message": "Evaluation complete"}
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
+    return True
 
-
-if __name__ == "__main__":
-    result = evaluate(sys.argv[1] if len(sys.argv) > 1 else ".", ".")
-    print(json.dumps(result))
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

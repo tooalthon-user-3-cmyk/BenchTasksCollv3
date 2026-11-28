@@ -1,4 +1,5 @@
 # Task: contact-manager
 
 ## Description
-Complete the implementation for contact-manager in a beautiful way!
+Complete the implementation for contact-manager
+

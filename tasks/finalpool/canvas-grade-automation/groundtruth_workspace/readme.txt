@@ -1,2 +1,1 @@
-# Groundtruth workspace for canvas-grade-automation
-This directory contains the expected final state after task completion.
+Groundtruth data for canvas-grade-automation

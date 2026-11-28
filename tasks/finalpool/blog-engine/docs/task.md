@@ -1,4 +1,5 @@
 # Task: blog-engine
 
 ## Description
-Complete the implementation for blog-engine in a beautiful way!
+Complete the implementation for blog-engine
+
